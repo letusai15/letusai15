@@ -1,5 +1,5 @@
 # Helloo Folks! I'm [Monalisa Das a.k.a MD!]. Welcome To My Small World 😊
-<br><br>
+<br>
 <a href="www.linkedin.com/in/dmonalisa" target="_blank">
   <img align="left" alt="MD's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
@@ -28,25 +28,23 @@
 <a href="#"  target="_blank">
   <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
 </a>
-
-<br>
 <div align="center">
 
  ![](https://raw.githubusercontent.com/letusai15/letusai15/main/img/_header.png)
   
 </div>
 
-## <p align="center"><h4 align="center"><samp> Crafting elegant, high-performance digital experiences at the intersection of design and engineering. Years turning complex problems into beautiful solutions. </samp></h4></p>
+ <p align="center"><h4 align="center"><samp> Crafting elegant, high-performance digital experiences at the intersection of design and engineering. Years turning complex problems into beautiful solutions. </samp></h4></p>
 
 <table style="border: none;">
   <tr>
-    <td><img align="right" src="https://raw.githubusercontent.com/letusai15/letusai15/main/img/_sideimage.png)" width="40%"/></td>
+    <td width="50%"><img align="" src="https://raw.githubusercontent.com/letusai15/letusai15/main/img/_sideimage.jpg" width="100%"/></td>
     <td>
-      <p>
-      👷 <samp><b>Software Architect @ Tangenesis</b></br>
-      👨‍🎓 <samp><b>B.Tech in Information Technology(2004-2008) from SIES College of Engineering, Mumbai</b></br>
-      🔭 <samp>Masters in Computer Science from University of Leicester, UK (2012)</br>
-      </p>
+      <ul>
+  <li> 👷 <samp><b>Software Architect @ Tangenesis</b></li>
+  <li>👨‍🎓 <samp><b>B.Tech in Information Technology(2004-2008) from SIES College of Engineering, Mumbai</b></li>
+  <li>🔭 <samp>Masters in Computer Science from University of Leicester, UK (2012)</li>
+</ul>
     </td>
   </tr>
 </table>
