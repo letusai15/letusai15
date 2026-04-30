@@ -30,12 +30,26 @@
 </a>
 
 <br>
-![](https://raw.githubusercontent.com/letusai15/letusai15/main/img/_header.png)
+<div align="center">
+
+ ![](https://raw.githubusercontent.com/letusai15/letusai15/main/img/_header.png)
+  
+</div>
 
 ## <p align="center"><h4 align="center"><samp> Crafting elegant, high-performance digital experiences at the intersection of design and engineering. Years turning complex problems into beautiful solutions. </samp></h4></p>
 
-<div>
-<img align="right" src="https://github.com/letusai15/letusai15/blob/main/terminal.gif" width="40%"/>
+<table>
+  <tr>
+    <td><img align="right" src="https://www.magnific.com/free-ai-image/cyber-security-experts-working-with-tech-devices-neon-lights_236257591.htm#fromView=search&page=1&position=2&uuid=d650c16e-4d52-4869-b920-4da7be4c14ce&query=Programming+banner" width="40%"/></td>
+    <td>
+      <h3>Your Heading</h3>
+      <p>This is your description text that will appear next to the image.</p>
+    </td>
+  </tr>
+</table>
+
+<div >
+<img align="right" src="https://www.magnific.com/free-ai-image/cyber-security-experts-working-with-tech-devices-neon-lights_236257591.htm#fromView=search&page=1&position=2&uuid=d650c16e-4d52-4869-b920-4da7be4c14ce&query=Programming+banner" width="40%"/>
   <br>
 
 - 👷 <samp><b>Software Architect @ Tangenesis</b>
