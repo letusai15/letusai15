@@ -1,4 +1,12 @@
-# Helloo Folks! I'm [Monalisa Das a.k.a MD!]. Welcome To My Small World 😊
+# Helloo Folks! I'm Monalisa Das a.k.a MD!. Welcome To My Small World 😊
+
+ <p align="center"><h4 align="center"><samp> Where I'm busy crafting elegant, high-performance digital experiences at the intersection of design and engineering. Years turning complex problems into beautiful solutions. </samp></h4></p>
+ 
+<div align="center">
+
+ ![](https://raw.githubusercontent.com/letusai15/letusai15/main/img/_header.png)
+  
+</div>
 <br>
 <a href="www.linkedin.com/in/dmonalisa" target="_blank">
   <img align="left" alt="MD's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -28,14 +36,9 @@
 <a href="#"  target="_blank">
   <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
 </a>
-<div align="center">
 
- ![](https://raw.githubusercontent.com/letusai15/letusai15/main/img/_header.png)
-  
-</div>
-
- <p align="center"><h4 align="center"><samp> Crafting elegant, high-performance digital experiences at the intersection of design and engineering. Years turning complex problems into beautiful solutions. </samp></h4></p>
-
+<br>
+<br>
 <table style="border: none;">
   <tr>
     <td width="50%"><img align="" src="https://raw.githubusercontent.com/letusai15/letusai15/main/img/_sideimage.jpg" width="100%"/></td>
