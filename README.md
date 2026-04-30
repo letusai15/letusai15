@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [Monalisa Das a.k.a MD!](https://github.com/amandewatnitrr)
+# Helloo Folks! I'm [Monalisa Das a.k.a MD!]. Welcome To My Small World 😊
 <br><br>
 <a href="www.linkedin.com/in/dmonalisa" target="_blank">
   <img align="left" alt="MD's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
