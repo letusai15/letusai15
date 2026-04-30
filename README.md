@@ -4,7 +4,7 @@
  
 <div align="center">
 
- ![](https://raw.githubusercontent.com/letusai15/letusai15/main/img/_robot1.gif)
+ ![](https://github.com/letusai15/letusai15/blob/main/img/_robot1.gif)
   
 </div>
 <br>
@@ -26,7 +26,7 @@
 <a href="#" target="_blank">
   <img align="left" alt="MD's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
 </a>
-<br><br>
+
 <a href="#"  target="_blank">
   <img align="left" alt="MD's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
