@@ -1,20 +1,10 @@
-<div>
-
- ![](https://raw.githubusercontent.com/letusai15/letusai15/main/img/_robot1.gif)
-
-<br/>
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Monalisa+Das+a.k.a+MD!+Welcome+To+My+Small+World+😊)](https://git.io/typing-svg)
-
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Monalisa+Das+a.k.a+MD!)](https://git.io/typing-svg)   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Small+World+😊)](https://git.io/typing-svg)
 
  <p align="center"><h4 align="center"><samp> Where I'm busy crafting elegant, high-performance digital experiences at the intersection of design and engineering. Years turning complex problems into beautiful solutions. </samp></h4></p>
  
 <div align="center">
 
- ![](https://raw.githubusercontent.com/letusai15/letusai15/main/img/_header.png)
+ ![](https://raw.githubusercontent.com/letusai15/letusai15/main/img/_robot1.gif)
   
 </div>
 <br>
