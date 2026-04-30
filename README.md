@@ -30,7 +30,7 @@
 </a>
 
 <br>
-![](https://github.com/letusai15/letusai15/blob/main/img/_header.png)
+![](img/_header.png)
 
 ## <p align="center"><h4 align="center"><samp> Crafting elegant, high-performance digital experiences at the intersection of design and engineering. Years turning complex problems into beautiful solutions. </samp></h4></p>
 
