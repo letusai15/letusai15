@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Monalisa+Das+a.k.a+MD!)](https://git.io/typing-svg)   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Small+World+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+People,+I'm+Monalisa+Das!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Small+World+😊)](https://git.io/typing-svg)
 
- <p align="center"><h4 align="center"><samp> Where I'm busy crafting elegant, high-performance digital experiences at the intersection of design and engineering. Years turning complex problems into beautiful solutions. </samp></h4></p>
+ <p align="center">
+  <h4 align="center"><samp> Where I'm busy crafting elegant, high-performance digital experiences at the intersection of design and engineering. Years turning complex problems into beautiful solutions. </samp></h4>
+
+ </p>
  
 <div align="center">
 
