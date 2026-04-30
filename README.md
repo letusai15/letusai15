@@ -38,24 +38,18 @@
 
 ## <p align="center"><h4 align="center"><samp> Crafting elegant, high-performance digital experiences at the intersection of design and engineering. Years turning complex problems into beautiful solutions. </samp></h4></p>
 
-<table>
+<table style="border: none;">
   <tr>
-    <td><img align="right" src="https://www.magnific.com/free-ai-image/cyber-security-experts-working-with-tech-devices-neon-lights_236257591.htm#fromView=search&page=1&position=2&uuid=d650c16e-4d52-4869-b920-4da7be4c14ce&query=Programming+banner" width="40%"/></td>
+    <td><img align="right" src="https://raw.githubusercontent.com/letusai15/letusai15/main/img/_sideimage.png)" width="40%"/></td>
     <td>
-      <h3>Your Heading</h3>
-      <p>This is your description text that will appear next to the image.</p>
+      <p>
+      👷 <samp><b>Software Architect @ Tangenesis</b></br>
+      👨‍🎓 <samp><b>B.Tech in Information Technology(2004-2008) from SIES College of Engineering, Mumbai</b></br>
+      🔭 <samp>Masters in Computer Science from University of Leicester, UK (2012)</br>
+      </p>
     </td>
   </tr>
 </table>
-
-<div >
-<img align="right" src="https://www.magnific.com/free-ai-image/cyber-security-experts-working-with-tech-devices-neon-lights_236257591.htm#fromView=search&page=1&position=2&uuid=d650c16e-4d52-4869-b920-4da7be4c14ce&query=Programming+banner" width="40%"/>
-  <br>
-
-- 👷 <samp><b>Software Architect @ Tangenesis</b>
-- 👨‍🎓 <samp><b>B.Tech in Information Technology(2004-2008) from SIES College of Engineering, Mumbai</b>
-- 🔭 <samp>Masters in Computer Science from University of Leicester, UK (2012)
-</div>
 
 ##
 
