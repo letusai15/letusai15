@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/dmonalisa" target="_blank">
   <img align="left" alt="MD's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
+<a href="https://huggingface.co/letusai15" target="_blank">
+  <img align="left" alt="MD's HuggingFace" width="100px" src="https://img.shields.io/badge/HuggingFace-3B4252?style=for-the-badge&logo=huggingface&logoColor=yellow" />
+</a>
 <a href="https://github.com/letusai15" target="_blank">
   <img align="left" alt="MD's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
@@ -29,16 +32,15 @@
 <a href="#" target="_blank">
   <img align="left" alt="MD's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
 </a>
-
 <a href="#"  target="_blank">
   <img align="left" alt="MD's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
-<a href="#"  target="_blank">
+<!-- <a href="#"  target="_blank">
   <img src="https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=Wolfram&logoColor=white">
 </a>
 <a href="#"  target="_blank">
   <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
-</a>
+</a> -->
 
 <br>
 <br>
