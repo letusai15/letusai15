@@ -1,10 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+People,+I'm+Monalisa+Das!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Small+World+😊)](https://git.io/typing-svg)
 
- <p align="center">
   <h4 align="center"><samp> Where I'm busy crafting elegant, high-performance digital experiences at the intersection of design and engineering. Years turning complex problems into beautiful solutions. </samp></h4>
-<br/>
-  https://monalisadas-knowme.vercel.app/
- </p>
  
 <div align="center">
 
@@ -52,9 +48,10 @@
     <td width="50%"><img align="" src="https://raw.githubusercontent.com/letusai15/letusai15/main/img/_sideimage.jpg" width="100%"/></td>
     <td>
       <ul>
-  <li> 👷 <samp><b>Software Architect @ Tangenesis</b></li>
-  <li>👨‍🎓 <samp><b>B.Tech in Information Technology(2004-2008) from SIES College of Engineering, Mumbai</b></li>
-  <li>🔭 <samp>Masters in Computer Science from University of Leicester, UK (2012)</li>
+  <li> 👷 <samp>Breaking the norms as Software Architect</samp></li>
+  <li>👨‍🎓 <samp>B.Tech in Information Technology(2004-2008) from SIES College of Engineering, Mumbai</samp></li>
+  <li>🔭 <samp>Masters in Computer Science from University of Leicester, UK (2012)</samp></li>
+   <li>🌐 <samp>Know Me More: https://monalisadas-knowme.vercel.app/</samp></li>
 </ul>
     </td>
   </tr>
