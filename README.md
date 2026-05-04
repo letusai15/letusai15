@@ -51,7 +51,7 @@
   <li> 👷 <samp>Breaking the norms as Software Architect</samp></li>
   <li>👨‍🎓 <samp>B.Tech in Information Technology(2004-2008) from SIES College of Engineering, Mumbai</samp></li>
   <li>🔭 <samp>Masters in Computer Science from University of Leicester, UK (2012)</samp></li>
-   <li>🌐 <samp>Know Me More: https://monalisadas-knowme.vercel.app/</samp></li>
+   <li>🌐 <samp><a href="https://monalisadas-knowme.vercel.app" target="_blank">Know Me More</a></samp></li>
 </ul>
     </td>
   </tr>
