@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6366F1&center=true&width=600&lines=Hi%2C+I'm+Monalisa+Das+%F0%9F%91%8B;Software+Architect+%C2%B7+12+Years;Systems+Thinker+%C2%B7+Technical+Leader)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/letusai15/letusai15/main/img/_sideimage.jpg" width="130" style="border-radius:50%"/>
-
 ### Software Architect · Mumbai, India
 
 *I design systems that scale — and build the tools to run them.*
@@ -22,10 +20,19 @@
 
 ## About
 
+<table><tr>
+<td valign="top" width="60%">
+
 - 🏗️ 12 years designing and shipping enterprise-grade systems — financial platforms, event-driven architectures, cloud-native migrations
 - 🤖 Currently building agentic AI pipelines: multi-agent content review, automated publishing, interview prep systems
 - 🎓 M.Sc. Computer Science · University of Leicester, UK &nbsp;|&nbsp; B.Tech IT · SIES Mumbai
 - 🌐 Everything I build lives at **[monalisadas-knowme.vercel.app](https://monalisadas-knowme.vercel.app)**
+
+</td>
+<td valign="top" align="center" width="40%">
+<img src="https://raw.githubusercontent.com/letusai15/letusai15/main/img/_sideimage.jpg" width="160" style="border-radius:12px"/>
+</td>
+</tr></table>
 
 ---
 
