@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="img/_robot1.gif" width="220" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6366F1&center=true&width=600&lines=Hi%2C+I'm+Monalisa+Das+%F0%9F%91%8B;Software+Architect+%C2%B7+12+Years;Systems+Thinker+%C2%B7+Technical+Leader)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/letusai15/letusai15/main/img/_sideimage.jpg" width="130" style="border-radius:50%"/>
@@ -66,7 +68,7 @@
 
 **Tools**
 
-![](https://skillicons.dev/icons?i=vscode,visualstudio,cursor,postman,git&perline=10)
+![](https://skillicons.dev/icons?i=vscode,visualstudio,postman,git&perline=10)
 
 ---
 
@@ -81,5 +83,9 @@ A multi-agent system that takes a topic from idea → draft → QA → tech-lead
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letusai15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+<br/>
+
+![snake](https://raw.githubusercontent.com/letusai15/letusai15/output/github-contribution-grid-snake-dark.svg)
 
 </div>
