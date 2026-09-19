@@ -1,0 +1,97 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily at 6am UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - name: Fetch stats and generate SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: letusai15
+        run: |
+          # Fetch user data
+          USER=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/users/$USERNAME")
+
+          FOLLOWERS=$(echo "$USER" | python3 -c "import sys,json; print(json.load(sys.stdin)['followers'])")
+          PUBLIC_REPOS=$(echo "$USER" | python3 -c "import sys,json; print(json.load(sys.stdin)['public_repos'])")
+
+          # Fetch all repos and sum stars/forks
+          REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/users/$USERNAME/repos?per_page=100&type=owner")
+
+          STARS=$(echo "$REPOS" | python3 -c "import sys,json; d=json.load(sys.stdin); print(sum(r['stargazers_count'] for r in d))")
+          FORKS=$(echo "$REPOS" | python3 -c "import sys,json; d=json.load(sys.stdin); print(sum(r['forks_count'] for r in d))")
+
+          # Count commits via search API (last year)
+          COMMITS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/search/commits?q=author:$USERNAME&per_page=1" \
+            -H "Accept: application/vnd.github.cloak-preview+json" | \
+            python3 -c "import sys,json; print(json.load(sys.stdin).get('total_count', 0))")
+
+          mkdir -p dist
+
+          python3 - <<PYEOF
+          stars   = "$STARS"
+          forks   = "$FORKS"
+          commits = "$COMMITS"
+          followers = "$FOLLOWERS"
+          repos   = "$PUBLIC_REPOS"
+
+          W, H = 480, 195
+          BG       = "#0d1117"
+          BORDER   = "#30363d"
+          ACCENT   = "#6366f1"
+          TEXT_H   = "#e6edf3"
+          TEXT_S   = "#8b949e"
+          ICON     = "#6366f1"
+
+          def stat_block(x, y, icon, label, value):
+              return f"""
+            <circle cx="{x+12}" cy="{y+12}" r="8" fill="{ICON}" opacity="0.15"/>
+            <text x="{x+12}" y="{y+17}" text-anchor="middle" font-size="10" fill="{ICON}">{icon}</text>
+            <text x="{x+28}" y="{y+10}" font-size="11" fill="{TEXT_S}">{label}</text>
+            <text x="{x+28}" y="{y+25}" font-size="15" font-weight="600" fill="{TEXT_H}">{value}</text>
+          """
+
+          svg = f"""<svg width="{W}" height="{H}" viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg">
+            <rect width="{W}" height="{H}" rx="12" fill="{BG}" stroke="{BORDER}" stroke-width="1"/>
+
+            <!-- title -->
+            <text x="20" y="38" font-size="16" font-weight="700" fill="{TEXT_H}" font-family="monospace">letusai15's GitHub Stats</text>
+            <line x1="20" y1="52" x2="{W-20}" y2="52" stroke="{BORDER}" stroke-width="1"/>
+
+            <!-- stats grid -->
+            {stat_block(20,  65, "★", "Total Stars",  stars)}
+            {stat_block(160, 65, "⑂", "Forks",        forks)}
+            {stat_block(300, 65, "●", "Commits",      commits)}
+
+            {stat_block(20,  130, "◈", "Repos",       repos)}
+            {stat_block(160, 130, "♥", "Followers",   followers)}
+
+            <!-- footer -->
+            <text x="{W-20}" y="{H-10}" text-anchor="end" font-size="9" fill="{TEXT_S}" font-family="monospace">Updated daily via GitHub Actions</text>
+          </svg>"""
+
+          with open("dist/stats.svg", "w") as f:
+              f.write(svg)
+          print("SVG written.")
+          PYEOF
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

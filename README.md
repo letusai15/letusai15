@@ -82,7 +82,7 @@ A multi-agent system that takes a topic from idea → draft → QA → tech-lead
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letusai15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![GitHub Stats](https://raw.githubusercontent.com/letusai15/letusai15/output/stats.svg)
 
 <br/>
 
