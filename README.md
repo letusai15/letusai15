@@ -1,128 +1,85 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+People,+I'm+Monalisa+Das!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Small+World+😊)](https://git.io/typing-svg)
-
-  <h4 align="center"><samp> Where I'm busy crafting elegant, high-performance digital experiences at the intersection of design and engineering. Years turning complex problems into beautiful solutions. </samp></h4>
- 
 <div align="center">
 
- ![](https://github.com/letusai15/letusai15/blob/main/img/_robot1.gif)
-  
-</div>
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6366F1&center=true&width=600&lines=Hi%2C+I'm+Monalisa+Das+%F0%9F%91%8B;Software+Architect+%C2%B7+12+Years;Systems+Thinker+%C2%B7+Technical+Leader)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/dmonalisa" target="_blank">
-  <img align="left" alt="MD's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://huggingface.co/letusai15" target="_blank">
-  <img align="left" alt="MD's HuggingFace" width="100px" src="https://img.shields.io/badge/HuggingFace-3B4252?style=for-the-badge&logo=huggingface&logoColor=yellow" />
-</a>
-<a href="https://github.com/letusai15" target="_blank">
-  <img align="left" alt="MD's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
+<img src="https://raw.githubusercontent.com/letusai15/letusai15/main/img/_sideimage.jpg" width="130" style="border-radius:50%"/>
 
-<!-- <a href="#" target="_blank">
-  <img align="left" alt="MD's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="#" target="_blank">
-  <img align="left" alt="MD's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
-<a href="#" target="_blank">
-  <img align="left" alt="kad's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
-</a>
-<a href="#" target="_blank">
-  <img align="left" alt="MD's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
-</a>
-<a href="#"  target="_blank">
-  <img align="left" alt="MD's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
-</a> -->
-<!-- <a href="#"  target="_blank">
-  <img src="https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=Wolfram&logoColor=white">
-</a>
-<a href="#"  target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
-</a> -->
+### Software Architect · Mumbai, India
 
-<br>
-<br>
-<table style="border: none;">
-  <tr>
-    <td width="50%"><img align="" src="https://raw.githubusercontent.com/letusai15/letusai15/main/img/_sideimage.jpg" width="100%"/></td>
-    <td>
-      <ul>
-  <li> 👷 <samp>Breaking the norms as Software Architect</samp></li>
-  <li>👨‍🎓 <samp>B.Tech in Information Technology(2004-2008) from SIES College of Engineering, Mumbai</samp></li>
-  <li>🔭 <samp>Masters in Computer Science from University of Leicester, UK (2012)</samp></li>
-   <li>🌐 <samp><a href="https://monalisadas-knowme.vercel.app" target="_blank">Know Me More</a></samp></li>
-</ul>
-    </td>
-  </tr>
-</table>
+*I design systems that scale — and build the tools to run them.*
 
-
-<!-- <h3><b><samp>Experiences:</samp></b></h3>
-<div>
-
-🥂 2023 - Present  
-<div> 
- 👩🏽‍💼 <b>Software Architect</b><br>
- <p> 💻 Deployed at Tangenesis, Inc my job role includes being a part of the core development team, developing and resolving technical requirements of credit unions across to my best knowledge, skills and experience.
-
-![](https://skills.syvixor.com/api/icons?i=.net,csharp,react,sql,chatgpt&perline=18)</p>
-</div><br/>
-🥂 2019 - 2022  
-<div> 
- 👩🏽‍💼 <b>Technical Specialist</b><br>
- <p> 💻 My role is to give feasible solutions and develop the user stories along with managing the team. 
-
-![](https://skills.syvixor.com/api/icons?i=.net,csharp,angular,entityframework,sql,postgres,aws,terraform,octopus&perline=18)
-
-</div><br/>
-🥂 2019 - 2019 
-<div> 
- 👩🏽‍💼 <b>Full Stack Developer</b><br>
- <p> 💻 Responsible to handle development through starting from front-end to back-end.
-
-![](https://skills.syvixor.com/api/icons?i=.net,csharp,angular,webapi,sql,wpf,azure&perline=18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmonalisa)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MLisa1501)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/letusai15)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://monalisadas-knowme.vercel.app)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/letusai15)
 
 </div>
-</div> -->
 
-##
-<h3><b><samp>Skills</samp></b></h3>
+---
 
-<h4><b><samp>Languages</samp></b></h4>
+## About
 
-![](https://skills.syvixor.com/api/icons?i=python,csharp,php&perline=18)
+- 🏗️ 12 years designing and shipping enterprise-grade systems — financial platforms, event-driven architectures, cloud-native migrations
+- 🤖 Currently building agentic AI pipelines: multi-agent content review, automated publishing, interview prep systems
+- 🎓 M.Sc. Computer Science · University of Leicester, UK &nbsp;|&nbsp; B.Tech IT · SIES Mumbai
+- 🌐 Everything I build lives at **[monalisadas-knowme.vercel.app](https://monalisadas-knowme.vercel.app)**
 
-<h4><b><samp>DevOps</samp></b></h4>
+---
 
-![](https://skills.syvixor.com/api/icons?i=git,docker,terraform&perline=18)
+## Experience
 
-<h4><b><samp>Frontend</samp></b></h4>
+**🏢 Software Architect** &nbsp;·&nbsp; Tangenesis Inc &nbsp;·&nbsp; *2023 – Present*
+> Core architecture and development for enterprise financial software. Leading technical decisions, system design, and AI integration.
 
-![](https://skills.syvixor.com/api/icons?i=html,css,tailwind,javascript,bootstrap,react,md&perline=18)
+`C#` `.NET` `React` `SQL` `ChatGPT`
 
-<h4><b><samp>Backend</samp></b></h4>
+**🏢 Technical Specialist** &nbsp;·&nbsp; *2019 – 2022*
+> Solutions design, team leadership, and full-stack delivery across cloud-native and on-prem environments.
 
-![](https://skillicons.dev/icons?i=dotnet,postman&perline=18)
+`C#` `.NET` `Angular` `PostgreSQL` `AWS` `Terraform` `Octopus Deploy`
 
-<h4><b><samp>Database</samp></b></h4>
+**🏢 Full Stack Developer** &nbsp;·&nbsp; *2019*
+> End-to-end development across frontend, backend, and desktop.
 
-![](https://skills.syvixor.com/api/icons?perline=18&i=postgresql,mysql,sql)
+`C#` `.NET` `Angular` `SQL` `Azure` `WPF`
 
-<h4><b><samp>AI & Automation</samp></b></h4>
+---
 
-![](https://skills.syvixor.com/api/icons?i=n8n,claudeai,langchain,chatgpt&perline=18)
+## Tech Stack
 
-    
-##
-<h3><b><samp>Tools and Platform</samp></b></h3>
+**Languages**
 
-<h4><b><samp>Operating Systems and Platforms</samp></b></h4>
+![](https://skillicons.dev/icons?i=cs,ts,js,python,php&perline=10)
 
-![](https://skills.syvixor.com/api/icons?i=windows,linux&perline=18)
+**Frontend**
 
-<h4><b><samp>IDEs</samp></b></h4>
+![](https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&perline=10)
 
-![](https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,antigravity,cursor,&perline=18)
+**Backend · Cloud · Data**
 
-<hr> 
+![](https://skillicons.dev/icons?i=dotnet,postgres,mysql,supabase,aws,azure,terraform,docker&perline=10)
+
+**AI & Automation**
+
+![](https://skills.syvixor.com/api/icons?i=n8n,claudeai,langchain,chatgpt&perline=10)
+
+**Tools**
+
+![](https://skillicons.dev/icons?i=vscode,visualstudio,cursor,postman,git&perline=10)
+
+---
+
+## Currently Building
+
+**[KnowMe](https://monalisadas-knowme.vercel.app)** — Portfolio + AI-powered content pipeline.
+
+A multi-agent system that takes a topic from idea → draft → QA → tech-lead review → security check → published. Blog posts, opinion pieces, hot takes, and interview prep — all flowing through a fully automated pipeline built in React, TypeScript, and Supabase.
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letusai15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+</div>
