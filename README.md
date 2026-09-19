@@ -79,11 +79,24 @@
 
 ---
 
-## Currently Building
+## Things I've Actually Built
 
-**[KnowMe](https://monalisadas-knowme.vercel.app)** — Portfolio + AI-powered content pipeline.
+**6-Agent AI for 24/7 Payment Support** &nbsp;·&nbsp; *Tangenesis · live*
+> Payment support queries — balances, transaction history, payment promises, partial payments — required live agents around the clock. Replaced human support with a 6-agent AI system, each agent scoped to a single task with its own tools and prompt, all sharing the same request/response contract. One generic UI component works across all six with no extra code.
 
-A multi-agent system that takes a topic from idea → draft → QA → tech-lead review → security check → published. Blog posts, opinion pieces, hot takes, and interview prep — all flowing through a fully automated pipeline built in React, TypeScript, and Supabase.
+`React` `C# / .Net Core` `SQL Server` `AI/LLM`
+
+**Config-Driven Customer Onboarding** &nbsp;·&nbsp; *Tangenesis · live*
+> Every new customer required a new dev cycle — screens, payment flows, and data mappings were all hardcoded. Rebuilt onboarding as a config-driven system so adding a customer became a configuration change, not a deployment.
+
+`React` `C# / .Net Core` `SQL Server` `Microservices`
+
+**[KnowMe](https://monalisadas-knowme.vercel.app)** &nbsp;·&nbsp; *Personal · live*
+> Portfolio + multi-agent content pipeline. A topic goes in, a published post comes out — draft → QA → tech-lead review → security check, all automated. Built end-to-end in React, TypeScript, and Supabase.
+
+`React` `TypeScript` `Supabase` `Agentic AI`
+
+→ **[See all 9 projects](https://monalisadas-knowme.vercel.app/#work)** — payment orchestration, trading platform, fitness AI, and more.
 
 ---
 
